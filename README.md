@@ -10,19 +10,6 @@ A modern, responsive hotel booking website built using **React** and **Vite**. T
 - 📱 Fully responsive for mobile, tablet, and desktop
 - ⚡ Fast performance using Vite bundler
 
-## 📁 Project Structure
-
-my-react-vite-app/
-├── public/ # Static assets
-├── src/ # React components and app logic
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Pages like Home, Rooms, Booking, etc.
-│ └── App.jsx # Main app entry
-├── index.html # HTML template
-├── package.json # Project metadata and scripts
-├── vite.config.js # Vite configuration
-└── README.md # Project info
-
 
 ## 🛠️ Tech Stack
 
